@@ -1,3 +1,10 @@
-# Open-source Link-U Operating System
+<h1 align="center">🔗 Open-source Link-U Operating System</h1>
 
+
+<div align="left">
+    <tr>
+      <td>
 Link-U OS is an open-source embodied intelligent operating system designed to meet the full-scenario requirements of embodied intelligent robots. It establishes an ecosystem that "adapts to upstream embodied hardware and supports downstream intelligent applications." At the foundational level, it provides a stable, efficient, and distributed runtime development framework, along with hardware abstraction and other essential services. On the upper layer, it offers an open intelligent agent service framework that supports standardized integration of foundational models for interaction, task execution, locomotion, and more, thereby lowering the barrier to application development. Additionally, Link-U OS comes with a comprehensive toolchain that covers capabilities such as development and debugging, simulation testing, deployment management, and data recording, empowering developers to rapidly build a closed-loop technological process from virtual simulation to real-world deployment.
+      </td>
+    </tr>
+</div>
