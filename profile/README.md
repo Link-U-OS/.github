@@ -1,10 +1,5 @@
 <h1 align="center">🔗 Open-source Link-U Operating System</h1>
 
-<p align="center">
-  <a href="#english">English</a> | <a href="#chinese">中文</a>
-</p>
-
-
 <div align="left">
     <tr>
       <td>
